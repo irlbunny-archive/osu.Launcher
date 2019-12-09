@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Launcher", "osu.Launcher\osu.Launcher.csproj", "{F37157E6-2007-4164-8541-FC44DA1C844C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Launcher.Setup", "osu.Launcher.Setup\osu.Launcher.Setup.csproj", "{014E0609-CA07-42DD-AC6C-31F725EAD0D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37157E6-2007-4164-8541-FC44DA1C844C}.Debug|x86.ActiveCfg = Debug|x86
+		{F37157E6-2007-4164-8541-FC44DA1C844C}.Debug|x86.Build.0 = Debug|x86
+		{F37157E6-2007-4164-8541-FC44DA1C844C}.Release|x86.ActiveCfg = Release|x86
+		{F37157E6-2007-4164-8541-FC44DA1C844C}.Release|x86.Build.0 = Release|x86
+		{014E0609-CA07-42DD-AC6C-31F725EAD0D3}.Debug|x86.ActiveCfg = Debug|x86
+		{014E0609-CA07-42DD-AC6C-31F725EAD0D3}.Debug|x86.Build.0 = Debug|x86
+		{014E0609-CA07-42DD-AC6C-31F725EAD0D3}.Release|x86.ActiveCfg = Release|x86
+		{014E0609-CA07-42DD-AC6C-31F725EAD0D3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4BBBBCC-B03F-4B34-AF38-8352A3F20FE8}
+	EndGlobalSection
+EndGlobal
